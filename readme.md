@@ -42,5 +42,5 @@ I Github Desktop-klienten, gör en commit där du beskriver vilken funktion du g
 
 ## 3. Synka din kod med Github
 
-I slutet av lektionen, klicka på `push` i Github Desktop-klienten. Din kod laddas nu upp till Github.
+I slutet av lektionen, klicka på `Push origin` i Github Desktop-klienten. Din kod laddas nu upp till Github.
 
